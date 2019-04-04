@@ -1,4 +1,4 @@
-#code the methods turn_count and current_player here
+Nanou#code the methods turn_count and current_player here
 def turn_count(board)
   counter = 0
   board.each do |position|
